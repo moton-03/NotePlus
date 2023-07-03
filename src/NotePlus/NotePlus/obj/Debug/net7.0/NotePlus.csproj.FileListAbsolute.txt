@@ -1,0 +1,15 @@
+C:\GitHub\NotePlus\src\NotePlus\NotePlus\bin\Debug\net7.0\NotePlus.exe
+C:\GitHub\NotePlus\src\NotePlus\NotePlus\bin\Debug\net7.0\NotePlus.deps.json
+C:\GitHub\NotePlus\src\NotePlus\NotePlus\bin\Debug\net7.0\NotePlus.runtimeconfig.json
+C:\GitHub\NotePlus\src\NotePlus\NotePlus\bin\Debug\net7.0\NotePlus.dll
+C:\GitHub\NotePlus\src\NotePlus\NotePlus\bin\Debug\net7.0\NotePlus.pdb
+C:\GitHub\NotePlus\src\NotePlus\NotePlus\obj\Debug\net7.0\NotePlus.csproj.AssemblyReference.cache
+C:\GitHub\NotePlus\src\NotePlus\NotePlus\obj\Debug\net7.0\NotePlus.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\NotePlus\src\NotePlus\NotePlus\obj\Debug\net7.0\NotePlus.AssemblyInfoInputs.cache
+C:\GitHub\NotePlus\src\NotePlus\NotePlus\obj\Debug\net7.0\NotePlus.AssemblyInfo.cs
+C:\GitHub\NotePlus\src\NotePlus\NotePlus\obj\Debug\net7.0\NotePlus.csproj.CoreCompileInputs.cache
+C:\GitHub\NotePlus\src\NotePlus\NotePlus\obj\Debug\net7.0\NotePlus.dll
+C:\GitHub\NotePlus\src\NotePlus\NotePlus\obj\Debug\net7.0\refint\NotePlus.dll
+C:\GitHub\NotePlus\src\NotePlus\NotePlus\obj\Debug\net7.0\NotePlus.pdb
+C:\GitHub\NotePlus\src\NotePlus\NotePlus\obj\Debug\net7.0\NotePlus.genruntimeconfig.cache
+C:\GitHub\NotePlus\src\NotePlus\NotePlus\obj\Debug\net7.0\ref\NotePlus.dll
