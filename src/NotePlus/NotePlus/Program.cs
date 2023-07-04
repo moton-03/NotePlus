@@ -1,9 +1,15 @@
 ﻿Console.WriteLine("Text:");
 
-var text = Console.ReadLine();
+string text = Console.ReadLine();
 
 Console.WriteLine("File Path:");
 
-var filePath = Console.ReadLine();
+string filePath;
+
+do
+{
+    filePath = Console.ReadLine();
+} while (filePath == "");
+
 
 File.WriteAllText(filePath, text);
